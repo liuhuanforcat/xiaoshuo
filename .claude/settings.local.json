@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Bash(ANTHROPIC_BASE_URL=\"https://api.lingyaai.cn\" ANTHROPIC_AUTH_TOKEN=\"sk-nCj5FYYuXeCLXeva67vXEdLHJeUUtOTBaZv8FdCKkg2Pk0yW\" ANTHROPIC_MODEL=\"claude-sonnet-4-6\" npx tsx chapter-writer.ts \"主角在废墟中发现了一枚神秘戒指，戒指内封印着一位上古强者的残魂，两人第一次对话并建立初步信任\" 500)",
+      "Bash(ANTHROPIC_BASE_URL=\"https://api.lingyaai.cn\" ANTHROPIC_AUTH_TOKEN=\"sk-NYHGEAfIjxJLLu1hHefRltdRSrmNdCcPTCPqWn5hW6VXNMML\" ANTHROPIC_MODEL=\"claude-sonnet-4-6\" npx tsx chapter-writer.ts \"主角在废墟中发现了一枚神秘戒指，戒指内封印着一位上古强者的残魂，两人第一次对话并建立初步信任\" 500)"
+    ]
+  }
+}
